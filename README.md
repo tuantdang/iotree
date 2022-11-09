@@ -9,7 +9,7 @@
  # Prototype
  ![Alt text](Images/prototype.png)
  
-# Paper: (https://dl.acm.org/doi/pdf/10.1145/3495243.3567652)
+# Paper: https://dl.acm.org/doi/pdf/10.1145/3495243.3567652
 
 BibTeX
 ```
