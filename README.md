@@ -11,6 +11,7 @@
  
 # Paper: (https://dl.acm.org/doi/pdf/10.1145/3495243.3567652)
 
+BibTeX
 ```
 @inproceedings{dang2022iotree,
   title={ioTree: a battery-free wearable system with biocompatible sensors for continuous tree health monitoring},
