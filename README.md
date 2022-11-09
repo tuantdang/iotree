@@ -1,4 +1,4 @@
-# iotree: A Battery-free Wearable System with Biocompatible Sensors for Continuous Tree Health Monitoring
+# IoTree: A Battery-free Wearable System with Biocompatible Sensors for Continuous Tree Health Monitoring
  
  # Overview
  ![Alt text](Images/overview.png)
