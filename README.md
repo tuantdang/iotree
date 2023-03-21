@@ -8,7 +8,7 @@
 - [Khang Nguyen,  University of Texas at Arlington](https://mkhangg.com/)
 - [Tien Pham,  University of Texas at Arlington](https://sakewebsite.z19.web.core.windows.net/)
 - [Nhat Pham, University of Oxford](https://www.nhatpham.info/)
-- [Tam Vu, University of Colorado Boulde](http://mnslab.org/tamvu/)
+- [Tam Vu, University of Colorado Boulder](http://mnslab.org/tamvu/)
 - [Phuc Nguyen,  University of Texas at Arlington](http://wsslab.org/vpnguyen/)
 
  <p align="center">
