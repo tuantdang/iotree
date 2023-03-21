@@ -3,13 +3,13 @@
 [Project Page](https://github.com/tuantdang/iotree) | [Paper](https://dl.acm.org/doi/pdf/10.1145/3495243.3567652) | [Video](https://www.youtube.com/watch?v=8DUfOcuPwIk&ab_channel=TuanDang)
 
 ## Author Information
-- [Tuan Dang](https://www.tuandang.info/)
-- [Trung Tran](https://scholar.google.com/citations?user=2bYMOpEAAAAJ&hl=en)
-- [Khang Nguyen](https://mkhangg.com/)
-- [Tien Pham](https://sakewebsite.z19.web.core.windows.net/)
-- [Nhat Pham](https://www.nhatpham.info/)
-- [Tam Vu](http://mnslab.org/tamvu/)
-- [Phuc Nguyen](http://wsslab.org/vpnguyen/)
+- [Tuan Dang,  University of Texas at Arlington](https://www.tuandang.info/)
+- [Trung Tran,  Sungkyunkwan University](https://scholar.google.com/citations?user=2bYMOpEAAAAJ&hl=en)
+- [Khang Nguyen,  University of Texas at Arlington](https://mkhangg.com/)
+- [Tien Pham,  University of Texas at Arlington](https://sakewebsite.z19.web.core.windows.net/)
+- [Nhat Pham, University of Oxford](https://www.nhatpham.info/)
+- [Tam Vu, University of Colorado Boulde](http://mnslab.org/tamvu/)
+- [Phuc Nguyen,  University of Texas at Arlington](http://wsslab.org/vpnguyen/)
 
  <p align="center">
 <img src="Images/overview.png" alt="" width="600"/>
